@@ -1,0 +1,10 @@
+/*adding styles for root container*/
+
+.root {
+    margin-top: 2rem;
+}
+
+.heading{
+    text-align: center;
+    margin: 5rem;
+}
